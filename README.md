@@ -1,6 +1,7 @@
 # Fan-Note App
 
-Project is still in progress. I am going o add possibility to remove/ edit notes and local storage. I'm working on it! ;)
+Project is still in progress.
+I am going o add possibility to remove/ edit notes and local storage. I'm working on it! ;)
 
 ## Link to deplyed app (Netlify)
 
